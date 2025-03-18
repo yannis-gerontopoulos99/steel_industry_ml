@@ -1,8 +1,8 @@
-# steel_industry_ml
+# Steel_Industry_ML_Fundamentals
 
-A comprehensive ml guide using the scikit learn library to establish and solve a Classification and Regression problem.
+A comprehensive Machine Learning guide using the Scikit Learn library to establish and solve a Classification and Regression problem.
 The information gathered is from the DAEWOO Steel Co. Ltd in Gwangyang, South Korea. It produces several types of coils, steel plates, and iron plates.
-This guide helps undestand the fundamentals and the workflow of a ml project.  
+This guide helps understand the fundamentals and the workflow of a ML project.  
 
 Attribute Information:
 
